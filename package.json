@@ -1,6 +1,6 @@
 {
-  "name": "ju86-todos-project-list",
-  "version": "2.1.2",
+  "name": "ju86-todos-project",
+  "version": "2.1.3",
   "description": "",
   "main": "main.js",
   "type": "module",
