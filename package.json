@@ -1,8 +1,8 @@
 {
   "name": "ju86-todos-project",
-  "version": "2.1.3",
+  "version": "1.0.2",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
